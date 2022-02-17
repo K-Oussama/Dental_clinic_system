@@ -1,0 +1,20 @@
+/*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url('http://localhost/gestion%20dentaire/img/login-wallpaper.png');
+  background-size: cover;
+  background-position: center center;
+}
+.form-control {
+  height: 50px !important;
+}
