@@ -17,8 +17,7 @@ Parlant des fonctionnalités de cette application, elle comporte 4 sections + la
 * MySQL workbench 8.0 CE
 
 #### Comment exécuter (PHP) :
-- Copiez le dossier "version Java" qui se trouve dans le dossier principal
-- Coller dans xampp/htdocs/
+- Copiez le projet et Coller dans xampp/htdocs/
 - Ouvrez MySQL Workbench créer ou choisis une connexion 
 - username et password >> root
 - Créez une base de données en la nommant "Dentalclinic" puis imoprter les tables
